@@ -1,0 +1,166 @@
+*{
+    background: #E5E5E5;
+}
+
+#nombre{
+position: absolute;
+right: 35%;
+top: 03%;
+background-color:  white;
+font-size: 15px;
+}
+
+.imgvector{
+position: absolute;
+left: 6%;
+right: 37.43%;
+top: 10%;
+bottom: 0%;
+  }
+
+.imgmuneco{
+    position: absolute;
+width: 250px;
+left: 10px;
+top: 100px;
+background: #FFFFFF;
+    }
+
+#inputtexto1{
+position: relative;
+width: 577px;
+height: 48px;
+left: 240px;
+top: 168px;
+font-style: normal;
+font-size: 32px;
+text-decoration-color: #0A3871;
+border-color: #E5E5E5;
+border-top: #E5E5E5;
+border-left: #E5E5E5;
+
+}
+
+.inputtexto2{
+position: relative;
+width: 80%;
+top: 350px;
+left: 28px;
+height: 80px;
+background: #FFFFFF;
+border-color: #FFFFFF;
+}
+
+
+#msm1{
+    position: relative;
+    width: 40%px;
+    height: 48px;
+    left: 0px;
+    top: 300px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #495057; 
+    background: #FFFFFF; 
+}
+
+#msm2{
+    position: relative;
+    width: 40%px;
+    height: 48px;
+    left: 0px;
+    top: 301px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #495057; 
+    background: #FFFFFF; 
+}
+
+
+.botonenc{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 24px;
+    position: relative;
+    width: 300px;
+    height: 67px;
+    left: 100px;
+    top: 400px;
+    background: #0A3871;
+    border-radius: 24px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 24px;
+    text-align: center;
+    
+}
+
+.botondes{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 24px;
+    position: relative;
+    width: 300px;
+    height: 67px;
+    left: 500px;
+    top: 333px;
+    border: 1px solid #0A3871;
+    box-sizing: border-box;
+    border-radius: 24px;
+    flex: none;
+    margin: 0px 24px;
+    flex: none;
+    margin: 0px 24px;
+    
+    
+}
+
+.borde{
+position: absolute;
+width: 300px;
+height: 100%;
+left: 1000px;
+top: 5px;
+box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+border-radius: 32px;
+background: #FFFFFF;
+}
+
+#btcopiar{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 24px;
+    position: relative;
+    width: 30%;
+    height: 67px;
+    left: 35%;
+    top: 350px;
+    border: 1px solid #0A3871;
+    box-sizing: border-box;
+    border-radius: 24px;
+       
+}
+ 
+#msmacento{
+    position: absolute;
+    width: 205px;
+    height: 18px;
+    color: #495057;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 150%;
+    opacity: 0.8;
+    left: 12%;
+    top: 400px;
+    
+}
